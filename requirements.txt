@@ -1,0 +1,12 @@
+# Core Frameworks
+flask==3.0.0
+tensorflow-intel
+tf-keras==2.15.0
+
+# Image Processing & Data
+pillow==10.2.0
+numpy<2.0.0
+h5py==3.10.0
+
+# Utilities
+werkzeug==3.0.1
